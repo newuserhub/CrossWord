@@ -1,0 +1,32 @@
+{
+  "ver": "2.3.1",
+  "uuid": "7071833b-1f86-44cf-9cd3-7b24af809a31",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "platformSettings": {},
+  "subMetas": {
+    "Chinatown": {
+      "ver": "1.0.4",
+      "uuid": "a1d0dbb5-96bc-4e0e-b019-0e0a41243f6a",
+      "rawTextureUuid": "7071833b-1f86-44cf-9cd3-7b24af809a31",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 639,
+      "height": 212,
+      "rawWidth": 639,
+      "rawHeight": 212,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

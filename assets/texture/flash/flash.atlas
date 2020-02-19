@@ -1,0 +1,59 @@
+
+flash.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star1
+  rotate: false
+  xy: 2, 49
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+star2
+  rotate: false
+  xy: 2, 2
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+star3
+  rotate: false
+  xy: 895, 928
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+star4
+  rotate: false
+  xy: 52, 59
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+star5
+  rotate: false
+  xy: 895, 966
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+tydall
+  rotate: false
+  xy: 2, 98
+  size: 891, 914
+  orig: 891, 914
+  offset: 0, 0
+  index: -1
+
+flash2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cover
+  rotate: false
+  xy: 2, 2
+  size: 776, 220
+  orig: 776, 220
+  offset: 0, 0
+  index: -1
